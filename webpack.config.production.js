@@ -11,10 +11,10 @@ module.exports = {
     libraryTarget: 'umd',
   },
   resolve: {
-    extensions: ['', '.js'],
+    extensions: ['.js'],
   },
   plugins: [
-    new webpack.optimize.OccurenceOrderPlugin(),
+    new webpack.optimize.OccurrenceOrderPlugin(),
     new webpack.DefinePlugin({
       'process.env.NODE_ENV': JSON.stringify('production'),
     }),
