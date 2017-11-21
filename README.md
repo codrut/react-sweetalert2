@@ -12,7 +12,7 @@ This package is forked from https://github.com/alex-shamshurin/sweetalert2-react
 ## Install
 
 ```
-$ npm install sweetalert2-react
+$ npm install sweetalert2-react16
 ```
 
 ## Usage
