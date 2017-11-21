@@ -1,3 +1,7 @@
+0.6.0 / 2017-11-21
+==================
+- [deps] update dependencies for react16 and webpack 3
+
 0.4.10 / 2017-04-24
 ==================
 - [deps] Removes prototype reference which raises warnings in react 15.5 [#71](https://github.com/chentsulin/sweetalert-react/pull/71).
