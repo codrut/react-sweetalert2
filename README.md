@@ -7,7 +7,7 @@
 
 ## Introduction
 
-This package is forked from https://github.com/chentsulin/sweetalert-react and adopted for https://github.com/limonte/sweetalert2
+This package is forked from https://github.com/alex-shamshurin/sweetalert2-react, which is forked from https://github.com/chentsulin/sweetalert-react and adopted for https://github.com/limonte/sweetalert2
 
 ## Install
 
